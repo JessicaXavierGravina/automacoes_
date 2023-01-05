@@ -4,7 +4,7 @@ Estarei usando pynput , pyautogui, Selenium, Pandas... Cada um desses pacotes po
 
 Com o web-scraping você consegue automatizar coisas na internet, exclusivamente em sites. Com o uso do RPA você consegue automatizar qualquer coisa que você consegue fazer com o mouse e com o teclado!
 
-o RPA serve para automatizar qualquer processo repetitivo, sendo na web ou no proprio computador.
+O RPA serve para automatizar qualquer processo repetitivo, sendo na web ou no proprio computador.
 Pontos Negativos:
-você não pode usar o computador quando o programa RPA estiver rodando, pois ele usa o mouse e o teclado para automatizar e por vir a atrapalhar o processo.
-ele também não é 100% adaptavel de um computador para o outro, basicamente ele usa a tela como referencia (quantidade de pixels), portanto se voce usa o codigo em um computador e tenta usar em outro que contenha outra resolução de tela não vai dar certo.
+  Você não pode usar o computador quando o programa RPA estiver rodando, pois ele usa o mouse e o teclado para automatizar e por vir a atrapalhar o processo.
+  Ele também não é 100% adaptavel de um computador para o outro, basicamente ele usa a tela como referencia (quantidade de pixels), portanto se voce usa o codigo em um computador e tenta usar em outro que contenha outra resolução de tela não vai dar certo.
